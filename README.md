@@ -10,10 +10,10 @@ Experience seamless video downloading from YouTube with our user-friendly Tkinte
   Downloading YouTube videos has never been easier. With our intuitive Tkinter interface, you can enter the video URL and initiate the download with a single click.
 
  ###  Custom Save Location:
- Unlike traditional YouTube downloaders, our application allows you to specify exactly where you want your downloaded videos to be saved. No more searching through default directories!
+ Unlike traditional YouTube downloaders, it allows you to specify exactly where you want your downloaded videos to be saved. No more searching through default directories!
 
  ###  High Resolution Downloads:
-  Download your preferred videos in the highest available resolution. Our application automatically selects the optimal quality for your downloads.
+  Download your preferred videos in the highest available resolution.it automatically selects the optimal quality for your downloads.
 
  ### Simplified User Interface:
  Our clean and straightforward Tkinter interface ensures a seamless user experience, whether you're a tech-savvy user or just getting started.
@@ -48,7 +48,11 @@ Experience seamless video downloading from YouTube with our user-friendly Tkinte
 
 
 
+## CMD application description:
 
+
+if you wish to see how the background process is running just take of the multiline comments you can see this it  also going to do same thing but it has some special features in this you can also see the title of youtube video also thumbnail of youtube video and also
+Contributions are welcome! If you have any ideas, bug fixes, or improvements, please submit a pull request. For major changes, please open an issue first to discuss the changes you would like to make.
 
 
 
